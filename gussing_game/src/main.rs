@@ -20,12 +20,19 @@ fn main() {
     println!("Your gussed: {guess}");
 
     // --snip--
+    let mut guess = String::new();
+
+    io::stdin()
+        .read_line(&mut guess)
+        .expect("Failed to read line");
+
+    let guess: u32 = guess.trim().parse().expect("Please type a number!");
     println!("You guessed: {guess}");
 
     match guess.cmp(&secret_number) {
-        Ordering::Less => println!("Too small!");
-        Ordering::Greater => println!("Too big!");
-        Ordering::Equal => println!("Too win!");
+        Ordering::Less => println!("Too small!"),
+        Ordering::Greater => println!("Too big!"),
+        Ordering::Equal => println!("Too win!"),
     }
 }
 // サンプルコードを読みながら１行ずつ確認
