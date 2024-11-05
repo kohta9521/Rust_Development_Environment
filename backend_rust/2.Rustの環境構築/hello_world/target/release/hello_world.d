@@ -1,1 +1,0 @@
-/Users/kohtakochi/rust/Rust_Language_Development_Environment/backend_rust/2.Rustの環境構築/hello_world/target/release/hello_world: /Users/kohtakochi/rust/Rust_Language_Development_Environment/backend_rust/2.Rustの環境構築/hello_world/src/main.rs
