@@ -1,0 +1,5 @@
+# Ignore target directory
+/target
+
+# Ignore Cargo.lock for libraries
+Cargo.lock
