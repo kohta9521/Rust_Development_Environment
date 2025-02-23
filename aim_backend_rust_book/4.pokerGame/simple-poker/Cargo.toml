@@ -1,5 +1,5 @@
 [package]
-name = "samplec11"
+name = "simple-poker"
 version = "0.1.0"
 edition = "2021"
 
