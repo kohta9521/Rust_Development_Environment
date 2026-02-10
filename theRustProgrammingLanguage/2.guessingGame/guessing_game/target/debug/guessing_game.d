@@ -1,1 +1,0 @@
-/Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/2.guessingGame/guessing_game/target/debug/guessing_game: /Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/2.guessingGame/guessing_game/src/main.rs

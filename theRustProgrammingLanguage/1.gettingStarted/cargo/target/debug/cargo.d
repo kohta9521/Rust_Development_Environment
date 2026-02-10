@@ -1,1 +1,0 @@
-/Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/1.gettingStarted/cargo/target/debug/cargo: /Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/1.gettingStarted/cargo/src/main.rs

@@ -1,1 +1,0 @@
-/Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/3.CommonProgrammingCncepts/1.variablesAndMutabillty/variables/target/debug/variables: /Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/3.CommonProgrammingCncepts/1.variablesAndMutabillty/variables/src/main.rs

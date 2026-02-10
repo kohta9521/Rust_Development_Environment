@@ -1,1 +1,0 @@
-/Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/3.CommonProgrammingCncepts/2.dataTypes/data/target/debug/data: /Users/kohtakochi/Study/Rust_Development_Environment/theRustProgrammingLanguage/3.CommonProgrammingCncepts/2.dataTypes/data/src/main.rs
